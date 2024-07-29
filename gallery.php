@@ -47,7 +47,7 @@ include "./component/header.php";
                     </div>
                     <div class="col-md-4">
                         <div class="card">
-                            <img src="img/produk1.jpg" class="card-img-top img-fluid rounded" alt="Foto Kegiatan 5">
+                            <img src="img/produk4.jpg" class="card-img-top img-fluid rounded" alt="Foto Kegiatan 5">
                             <div class="card-body text-center">
                                 <p class="card-text">Foto Kegiatan 5</p>
                             </div>
@@ -55,7 +55,7 @@ include "./component/header.php";
                     </div>
                     <div class="col-md-4">
                         <div class="card">
-                            <img src="img/produk3.jpg" class="card-img-top img-fluid rounded" alt="Foto Kegiatan 6">
+                            <img src="img/motor5.jpg" class="card-img-top img-fluid rounded" alt="Foto Kegiatan 6">
                             <div class="card-body text-center">
                                 <p class="card-text">Foto Kegiatan 6</p>
                             </div>

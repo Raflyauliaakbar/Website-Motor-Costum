@@ -11,7 +11,7 @@ include './component/header.php';
         <section id="visi-misi" class="py-2 bg-light">
             <div class="container">
                 <div class="card-body">
-                    <div class="card-body">
+                    <div class="card-body text-center">
                         <h3>Informasi Kontak</h3>
                         <p><strong>Alamat:</strong> Jl. Motor Raya No. 123, Kota Motor, 12345</p>
                         <p><strong>Telepon:</strong> (021) 123-4567</p>
